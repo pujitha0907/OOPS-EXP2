@@ -3,4 +3,9 @@
 
 #Variable
 
-<img width="1549" height="929" alt="Image" src="https://github.com/user-attachments/assets/dc396116-c710-4cc4-bf55-a7aa4970e610" />
+<img width="527" height="333" alt="exp2 op1" src="https://github.com/user-attachments/assets/15fda936-2eaf-419d-a8bd-2beacef05394" />
+
+
+#PasswordGenerator
+
+<img width="386" height="105" alt="exp2 op 2" src="https://github.com/user-attachments/assets/63f50923-f8b3-4e49-a150-709ed9ff2d4f" />
